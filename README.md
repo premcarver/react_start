@@ -1,2 +1,2 @@
 # react_start
-React starting 
+React starting project
